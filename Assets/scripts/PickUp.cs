@@ -42,5 +42,5 @@ public class PickUp : MonoBehaviour
         this.item.isKinematic = false;
     }
 
-    
+     
 }
